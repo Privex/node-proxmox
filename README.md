@@ -27,7 +27,7 @@ px.put('/nodes/{node}/dns', body, callback(data));
 px.del('/nodes/{node}/storage/{storage}/content/{volume}', callback(data));
 ```
 
-Ressources
+Resources
 ============
 
-Proxmox API documentation : http://pve.proxmox.com/pve2-api-doc/
+Proxmox API documentation : http://pve.proxmox.com/pve-docs/api-viewer/index.html
